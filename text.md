@@ -44,3 +44,23 @@ Kanban is highly relevant to our project because it allows us to manage the deve
 Even though there were moments during the project where I fell behind on certain tasks or encountered delays, Kanban helped me get back on track. The visual representation of the workflow made it clear where I stood in terms of progress. When I noticed tasks piling up in the “To-Do” or “In Progress” columns, I could quickly assess which areas needed my immediate attention. Kanban allowed me to re-prioritize and focus on the tasks that would help me catch up in the most efficient way, ensuring that I could maintain the overall momentum of the project.
 
 Moreover, Kanban helps us ensure that nothing falls through the cracks and that we maintain a steady flow of work, reducing bottlenecks and optimizing productivity across the team.
+
+
+# Slide Tools
+
+For the development of my customer app, I used a range of tools to streamline the process, manage dependencies, and ensure efficient testing and deployment. Each tool played a specific role in enabling a smooth workflow and ensuring the app's functionality across different platforms.
+
+Node.js & NPM: Node.js provided the JavaScript runtime environment necessary for running development scripts, while NPM (Node Package Manager) was essential for managing dependencies, including Angular CLI, Ionic CLI, and additional libraries like the QR generator.
+Ionic Framework & CLI: Ionic allowed me to develop a cross-platform mobile application with a single codebase. It provided UI components that adapted to both Android and iOS, and its CLI simplified project management, component generation, and debugging.
+Angular Framework: As the core framework for the app, Angular provided a structured component-based architecture, enabling scalability and maintainability through features like services and guards.
+Firefox & Selenium: Firefox was my primary browser for testing, and Selenium helped automate UI testing by simulating user interactions across different scenarios.
+Testing Devices: I conducted mobile testing on a Samsung Galaxy S9 and a Google Pixel 7 Pro to evaluate the app’s performance across different hardware capabilities.
+Java 21: Java was required to install and manage the app on Android devices. While iOS deployment required additional Apple-specific tools and a developer license, I primarily focused on the Android platform during development.
+
+# Slide MVC
+
+The Model-View-Controller (MVC) architecture is a widely used design pattern that helps organize code in a structured and maintainable way. It separates concerns into three main parts:
+
+  Model: This represents the data in the application. In my app, the model consists of services that handle data related to products, orders, and users. These services interact with the database but are only accessed through the controller.
+  View: The view is the user interface of the app. It consists of HTML and CSS, along with modern UI components provided by Ionic, to ensure an intuitive and responsive experience for users.
+  Controller: The controller acts as the logic layer of the app. It is responsible for handling user interactions, processing API requests, and ensuring the correct data is displayed. In my app, this is managed through TypeScript files in each component, which call the services to load or modify data.
