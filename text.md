@@ -21,7 +21,20 @@ In addition, the app will allow customers to manage their account details, inclu
 One key feature is the offline functionality, which will allow customers to access their QR code and track their loyalty points even when there’s no internet connection. However it is important to  note that the offline mode is only read only.
 
 
-# Slide 3 Projektmethode
+# Slide 3 Zeitplan
+
+At the beginning of my project, I structured a detailed timeline to balance the workload across different phases: organization, analysis, development, and testing. While my plan (SOLL) aimed for steady progress, the actual execution (IST) shows some variations.
+
+A surprising outcome came in the development phase—instead of the planned 40 hours, I completed it in just 20 hours. This was not due to cutting corners but rather working more efficiently than expected. A well-prepared plan, combined with clear implementation goals, allowed me to progress at a faster pace. However, while development was ahead of schedule, testing fell behind, likely because I had initially underestimated the time required for thorough quality assurance.
+
+Despite some shifts in the timeline, Kanban played a key role in helping me stay on track. At moments where I was behind in documentation or testing, Kanban made it clear where I stood and helped me identify the best points to catch up. This visibility ensured that I could adapt my workflow and make informed decisions to maintain overall progress.
+
+In the end, while the actual timeline (IST) differed from the original plan (SOLL), I successfully delivered the key components of my project. The experience reinforced the importance of flexible planning and real-time project tracking, proving that structured methodologies like Kanban can provide clarity and adaptability throughout development.
+
+
+
+
+# Slide 4 Projektmethode
 
 Kanban is a flexible and visual project management approach that helps teams manage their workflow and ensure efficient delivery. It is especially effective in agile environments, where continuous improvement and adaptability are key to project success. The main principle of Kanban is to visualize the work process, track progress, and ensure that tasks flow smoothly from one stage to the next.
 
