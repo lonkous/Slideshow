@@ -59,10 +59,9 @@ paginate: false
 ---
 
 ## SOLL Situation
-- Entwicklung einer mobilen Kunden-App basierend auf Ionic & Angular
 - Direkte Anbindung an Odoo für Echtzeit-Daten
-- Anzeige von Produkten mit „Neuheit“-Markierung
-- Verwaltung des Kundenkontos (Adresse, Telefonnummer, Passwort)
+- Anzeige von Produkten
+- Verwaltung des Kundenkontos
 - QR-Code zur Identifikation an der Kasse
 - Offline-Nutzung für QR-Code und Punktestand
 
@@ -153,8 +152,6 @@ paginate: false
 # Resultate
 
 ## Test und Testkonzept
-- **Unit Tests** zur Prüfung einzelner Komponenten
-- **Integrationstests** zur Sicherstellung der API-Kommunikation
 - **Usability-Tests** mit echten Nutzern zur Optimierung der Bedienbarkeit
 - **Automatisierte End-to-End-Tests** mit Selenium
 
@@ -165,7 +162,6 @@ paginate: false
 ## Herausforderungen und Lösungen
 - **Performance-Probleme** → Caching-Strategien implementiert
 - **Offline-Funktionalität** → Speicherung von Kerninformationen für den Offline-Modus
-- **Testautomatisierung** → Einführung von Selenium für automatisierte End-to-End-Tests
 
 ---
 
